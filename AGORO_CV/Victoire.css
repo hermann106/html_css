@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(pho.jpg) no-repeat;
+}
+.wrapper{
+    width: 900px;
+    height: auto;
+    margin: 10px auto;
+    background-color: rgba(67, 111, 155, 0.8);
+    border: 1px solid gray;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+table{
+    border: 2px dashed black;
+    padding: 10px;
+    margin-left: 50px;
+}
+img{
+    height: 170px;
+    margin-left: 10px;
+}
+table tr td span{
+    font-size: 20px;
+    font-family: fantasy;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+li{
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 100px;
+    font-family: fantasy;
+}
